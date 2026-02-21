@@ -1,0 +1,9 @@
+{
+    "name": "kcc/crud_motorcycle",
+    "autoload": {
+        "psr-4": {
+            "App\\": "./"
+        }
+    },
+    "require": {}
+}
