@@ -7,7 +7,7 @@ use CodeIgniter\Controller;
 use App\Models\LogModel;
 use App\Models\PersonModel;
 
-class Person extends Controller
+class Person extends Controller 
 {
     public function index(){
         $model = new PersonModel();
